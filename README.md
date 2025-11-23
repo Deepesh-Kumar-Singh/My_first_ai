@@ -25,7 +25,12 @@ This project demonstrates core AI concepts and practical implementation. It is d
 - Git & GitHub
 
 ---
-
+## What it can do 
+- It have full controll on computer and can open different files 
+- It can open different medias of the browser like facebook,instagram etc
+- It can answer all of your query and even save it into a dedecated file if you need
+- it can chat like a friend and does not leet you feel borwed
+- it can forget all the chat if you need
 # 📘 Project README
 
 ## 🧠 What I Learned
